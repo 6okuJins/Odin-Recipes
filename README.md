@@ -1,2 +1,2 @@
 # Odin-Recipes
-A work in progress project...
+A toy HTML site that lists simple recipes.
